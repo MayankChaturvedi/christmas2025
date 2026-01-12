@@ -1,0 +1,14 @@
+.venv/
+*__pycache__*
+
+# SFT
+sft/gandhi-lora-adapter
+sft/churchill-lora-adapter
+sft/gandhi-sft-checkpoint
+sft/churchill-sft-checkpoint
+
+# DPO
+dpo/gandhi-dpo-adapter
+dpo/churchill-dpo-adapter
+dpo/gandhi-dpo-checkpoint
+dpo/churchill-dpo-checkpoint
